@@ -1,0 +1,9 @@
+D:\WebApplication1\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+D:\WebApplication1\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+D:\WebApplication1\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\WebApplication1\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+D:\WebApplication1\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\WebApplication1\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+D:\WebApplication1\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+D:\WebApplication1\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+D:\WebApplication1\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
